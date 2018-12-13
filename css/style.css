@@ -683,12 +683,12 @@ section {
     }
 
     .hobby .item {
-        background-size: 100%;
+        background-size: 120%;
         transition: 1s;
     }
 
     .hobby .item:hover {
-        background-size: 130%;
+        background-size: 150%;
     }
 }
 
